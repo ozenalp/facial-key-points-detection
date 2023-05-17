@@ -1,1 +1,4 @@
 __pycache__/
+data/test_data.pth
+data/train_data.pth
+data/val_data.pth
