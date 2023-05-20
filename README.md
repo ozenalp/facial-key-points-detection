@@ -30,6 +30,11 @@ The dataset used in this project consists of grayscale images and their correspo
 - `Image`
 
 
+Here is an example image from the dataset:
+
+![Example Data](data/example-data.png)
+
+
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
