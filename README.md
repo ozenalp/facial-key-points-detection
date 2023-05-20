@@ -32,7 +32,7 @@ The dataset used in this project consists of grayscale images and their correspo
 
 Here is an example image from the dataset:
 
-![Example Data](data/example-data.png)
+![Example Data](data\example-data.png)
 
 
 ## License
