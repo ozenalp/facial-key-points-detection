@@ -28,3 +28,8 @@ The dataset used in this project consists of grayscale images and their correspo
 - `mouth_center_top_lip_x`, `mouth_center_top_lip_y`
 - `mouth_center_bottom_lip_x`, `mouth_center_bottom_lip_y`
 - `Image`
+
+
+## License
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for details.
